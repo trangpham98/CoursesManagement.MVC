@@ -22,3 +22,15 @@ F:\Courses\Courses\obj\Debug\Courses.View.frmSearchCouses.resources
 F:\Courses\Courses\obj\Debug\Courses.csproj.GenerateResource.cache
 F:\Courses\Courses\obj\Debug\Courses.exe
 F:\Courses\Courses\obj\Debug\Courses.pdb
+C:\Users\Windows10\Desktop\CoursesManagement.MVC\Courses\bin\Debug\Courses.exe.config
+C:\Users\Windows10\Desktop\CoursesManagement.MVC\Courses\bin\Debug\Courses.exe
+C:\Users\Windows10\Desktop\CoursesManagement.MVC\Courses\bin\Debug\Courses.pdb
+C:\Users\Windows10\Desktop\CoursesManagement.MVC\Courses\obj\Debug\Courses.csprojAssemblyReference.cache
+C:\Users\Windows10\Desktop\CoursesManagement.MVC\Courses\obj\Debug\Courses.View.frmAddCourses.resources
+C:\Users\Windows10\Desktop\CoursesManagement.MVC\Courses\obj\Debug\Courses.View.frmListCourse.resources
+C:\Users\Windows10\Desktop\CoursesManagement.MVC\Courses\obj\Debug\Courses.frmMain.resources
+C:\Users\Windows10\Desktop\CoursesManagement.MVC\Courses\obj\Debug\Courses.Properties.Resources.resources
+C:\Users\Windows10\Desktop\CoursesManagement.MVC\Courses\obj\Debug\Courses.View.frmSearchCouses.resources
+C:\Users\Windows10\Desktop\CoursesManagement.MVC\Courses\obj\Debug\Courses.csproj.GenerateResource.cache
+C:\Users\Windows10\Desktop\CoursesManagement.MVC\Courses\obj\Debug\Courses.exe
+C:\Users\Windows10\Desktop\CoursesManagement.MVC\Courses\obj\Debug\Courses.pdb

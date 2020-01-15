@@ -15,7 +15,7 @@ namespace Courses.Model
         public bool InsertCourse(Course course)
         {
             var Course = GetCourse(course.Code);
-            if (Course == null)
+            if (Course != null)
             { 
                 return false; 
             }
